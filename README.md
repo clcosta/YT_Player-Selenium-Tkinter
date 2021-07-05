@@ -15,7 +15,7 @@ Redes Sociais:
 
 ## Instalação
 
-1 . Primeiramente você pode clonar este repositório.
+1. Primeiramente você pode clonar este repositório.
 
 ```
 $ git clone https://github.com/clcosta/YT_Player-Selenium-Tkinter.git
@@ -36,13 +36,14 @@ python main.py
 
  * Exemplo 1° Parte:
 	
-	![step1](images/step1.png)
+	![step1](images/step1.png)  
 
- * Exemplo 2° Parte: 
+ * Exemplo 2° Parte:  
+
 	![step2](images/step2.png)
 
 ---
 
 ## Autor
 
-	* **Claudio Lima** - *Projeto Inicial*
+* **Claudio Lima** - *Projeto Inicial*
