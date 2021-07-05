@@ -1,25 +1,48 @@
-# Bem vindo ao repositório de Integração com a API do Google Sheets!
-Automação que utiliza O **Google Sheets API** para Obter as informações de um planilha, a integração é feita através de um arquivo **Json** com as credenciais, trata todos os dados e possíveis erros de digitação, e depois cria **Um Arquivo em Excel na Área de Trabalho.**
+# Bem vindo ao repositório Tkinter + Selenium para reproduzir musicas no Youtube!
+
+Você escuta muitas musicas no youtube? já pensou em ter todas elas rodando em ordem no Youtube pulando os anúncios para você?
+
+Essa aplicação cria um **interface gráfica** para o usúario digitar sua musica (ou suas varias musicas), e deixar rodando de segundo plano.
+
+Sem a preocupação de lidar com os anúncios.
 
 Redes Sociais:
 * [Site](https://eloquent-mayer-345dc7.netlify.app/)
 * [Instagram](https://www.instagram.com/claudiogfez/)
 * [Linkedin](https://www.linkedin.com/in/clcostaf/)
 
+
+
+## Instalação
+
+1 . Primeiramente você pode clonar este repositório.
+
+```
+$ git clone https://github.com/clcosta/YT_Player-Selenium-Tkinter.git
+```
+
+2. Agora a instalação das bibliotecas
+
+```
+pip install -r requirements.txt
+```
+
 ## How to use ( Como Utilizar )
-	-Para está está Integração funcionar será necessário fazer alguns passos muito Importantes!
 
-1. Será necessário criar o seu próprio arquivo Json dentro da pasta onde o Script vai rodar.  
-	**Recomendo Pesquisar sobre o Google Cloud API's**  
+1. Com tudo já instalado é só executar o código!
+```
+python main.py
+```
 
-    ![step1](images/step1.png)
+ * Exemplo 1° Parte:
+	
+	![step1](images/step1.png)
 
-2. Se atente ao nome de colunas, e as colunas que foram deletadas.
+ * Exemplo 2° Parte: 
+	![step2](images/step2.png)
 
-	![step2](images/step3.png)
 ---
 
-## Creditos da ideia
-	-Creditos para o Youtuber Tech With Tim
+## Autor
 
-* [Vídeo do Tim](https://www.youtube.com/watch?v=cnPlKLEGR7E)
+	* **Claudio Lima** - *Projeto Inicial*
