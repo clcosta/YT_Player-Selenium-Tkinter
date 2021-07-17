@@ -6,14 +6,14 @@ Essa aplicação cria um **interface gráfica** para o usúario digitar sua musi
 
 Sem a preocupação de lidar com os anúncios.
 
-Redes Sociais:
+## Redes Sociais:
 * [Site](https://portfolio-claudio.herokuapp.com)
 * [Instagram](https://www.instagram.com/claudiogfez/)
 * [Linkedin](https://www.linkedin.com/in/clcostaf/)
 
 
 
-## Instalação
+# Instalação
 
 1. Primeiramente você pode clonar este repositório.
 
@@ -27,7 +27,7 @@ $ git clone https://github.com/clcosta/YT_Player-Selenium-Tkinter.git
 pip install -r requirements.txt
 ```
 
-## How to use ( Como Utilizar )
+# Como utilizar
 
 1. Com tudo já instalado é só executar o código!
 ```
