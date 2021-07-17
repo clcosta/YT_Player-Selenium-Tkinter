@@ -7,7 +7,7 @@ Essa aplicação cria um **interface gráfica** para o usúario digitar sua musi
 Sem a preocupação de lidar com os anúncios.
 
 Redes Sociais:
-* [Site](https://eloquent-mayer-345dc7.netlify.app/)
+* [Site](https://portfolio-claudio.herokuapp.com)
 * [Instagram](https://www.instagram.com/claudiogfez/)
 * [Linkedin](https://www.linkedin.com/in/clcostaf/)
 
@@ -42,8 +42,7 @@ python main.py
 
 	![step2](images/step2.png)
 
----
 
-## Autor
-
-* **Claudio Lima** - *Projeto Inicial*
+# Autor
+| [<img src="https://avatars.githubusercontent.com/u/83929403?v=4" width=115><br><sub>@clcostaf</sub>](https://github.com/clcostaf) |
+| :---: |
