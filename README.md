@@ -44,5 +44,5 @@ python main.py
 
 
 # Autor
-| [<img src="https://avatars.githubusercontent.com/u/83929403?v=4" width=115><br><sub>@clcostaf</sub>](https://github.com/clcostaf) |
+| [<img src="https://avatars.githubusercontent.com/u/83929403?v=4" width=115><br><sub>@clcostaf</sub>](https://github.com/clcosta) |
 | :---: |
