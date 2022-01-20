@@ -7,7 +7,6 @@ Essa aplicação cria um **interface gráfica** para o usúario digitar sua musi
 Sem a preocupação de lidar com os anúncios.
 
 ## Redes Sociais:
-* [Site](https://portfolio-claudio.herokuapp.com)
 * [Instagram](https://www.instagram.com/claudiogfez/)
 * [Linkedin](https://www.linkedin.com/in/clcostaf/)
 
